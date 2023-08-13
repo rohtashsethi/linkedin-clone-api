@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-clone-api",
+  "version": "1.0.0",
+  "description": "Linked Clone App Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^3.6.0",
+    "passport": "^0.6.0"
+  }
+}
